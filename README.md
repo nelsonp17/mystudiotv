@@ -6,7 +6,7 @@ Una aplicación de reproductor de IPTV desarrollada con fines educativos para de
 
 |                     Pantalla Principal                     |                     Reproductor de Video                     |
 |:----------------------------------------------------------:|:------------------------------------------------------------:|
-| ![Pantalla principal de StudioTV](screenshots/movil_2.png) | ![Reproductor de video de StudioTV](screenshots/movil_4.png) |
+| ![Pantalla principal de StudioTV](screenshots/movil_2.jpg) | ![Reproductor de video de StudioTV](screenshots/movil_4.jpg) |
 
 ## Descargo de responsabilidad
 
@@ -37,4 +37,10 @@ Puede ver más de mi trabajo en mi perfil de GitHub:
 - **Backend:** GraphQL, SOAP
 - **Frameworks:** Laravel, Django, Express, Flutter, Vue.js, React, Svelte
 - **Bases de datos:** PostgreSQL, Redis, MySQL, SQLite
-- **DevOps/Tools:** Docker, CI/CD, Git, GitLab, Supabase, Appwrite, Websocket, Socket.IO# mystudiotv
+- **DevOps/Tools:** Docker, CI/CD, Git, GitLab, Supabase, Appwrite, Websocket, Socket.IO
+
+## Características
+
+- **Selección de Pistas de Audio:** Permite a los usuarios elegir entre las pistas de audio disponibles para una mejor experiencia de visualización.
+- **Control de Volumen:** Control deslizante para ajustar el volumen del audio directamente desde el reproductor.
+- **Autoscroll en la Lista de Canales:** La lista de canales se desplazará automáticamente para mostrar el canal que se está reproduciendo actualmente, mejorando la navegación en listas largas.
