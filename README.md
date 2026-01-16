@@ -8,6 +8,12 @@ Una aplicación de reproductor de IPTV desarrollada con fines educativos para de
 |:----------------------------------------------------------:|:------------------------------------------------------------:|
 | ![Pantalla principal de StudioTV](screenshots/movil_2.jpg) | ![Reproductor de video de StudioTV](screenshots/movil_4.jpg) |
 
+
+## Descargar la última versión
+
+La última versión se encuentra disponible en [https://github.com/nelsonp17/mystudiotv/releases](https://github.com/nelsonp17/mystudiotv/releases)
+
+
 ## Descargo de responsabilidad
 
 ### Contenido
@@ -44,3 +50,4 @@ Puede ver más de mi trabajo en mi perfil de GitHub:
 - **Selección de Pistas de Audio:** Permite a los usuarios elegir entre las pistas de audio disponibles para una mejor experiencia de visualización.
 - **Control de Volumen:** Control deslizante para ajustar el volumen del audio directamente desde el reproductor.
 - **Autoscroll en la Lista de Canales:** La lista de canales se desplazará automáticamente para mostrar el canal que se está reproduciendo actualmente, mejorando la navegación en listas largas.
+
